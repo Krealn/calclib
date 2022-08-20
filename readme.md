@@ -1,0 +1,1 @@
+Calclib for Python - the best way to create fast calculator in your project!
